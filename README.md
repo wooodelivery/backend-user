@@ -1,6 +1,6 @@
 # backend-user
 
-```
+```git
 git clone
 git cd
 ```
@@ -13,19 +13,19 @@ source ./venv/bin/activate
 pip3 -r requirements.txt
 ```
 
-###Running
+### Running
 
 ```python
 python run.py
 ```
 
-####Go to:
+#### Go to:
 ```
 http://127.0.0.1:4000/api/v1
 ```
 
 
-###Try it out:
+### Try it out:
 ```json
 {
    "type":"Feature",
